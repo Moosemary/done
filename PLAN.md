@@ -87,7 +87,7 @@ Validering (alltid 400 med tydligt svenskt meddelande, till exempel "Titeln får
 
 Varje steg görs i en egen session på en egen branch och blir en egen pull request. Bocka av steget här när PR:en är öppnad och testerna går igenom.
 
-### [ ] Steg 1: Grund, server och CI
+### [x] Steg 1: Grund, server och CI
 
 Branch: `steg-1-grund`
 
