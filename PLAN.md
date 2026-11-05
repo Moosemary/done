@@ -100,7 +100,7 @@ Branch: `steg-1-grund`
 
 **Klart när:** `npm run dev` visar en sida på http://localhost:3000, `/api/health` svarar 200, `npm test` går igenom utan `.env` och workflowet är grönt på PR:en.
 
-### [ ] Steg 2: Databas och repo-lager
+### [x] Steg 2: Databas och repo-lager
 
 Branch: `steg-2-databas`
 
