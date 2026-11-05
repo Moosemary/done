@@ -1,6 +1,6 @@
 # Plan: Done!
 
-En delad todolist som ser likadan ut på dator och telefon. Appen heter **Done!** och har en stiliserad ibockad ruta framför namnet. Repot heter `fikalistan-backend`.
+En delad todolist som ser likadan ut på dator och telefon. Appen heter **Done!** och har en stiliserad ibockad ruta framför namnet. Repot heter `done`.
 
 ## Beslut
 
